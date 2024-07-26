@@ -3,7 +3,7 @@
 I'm a Software Developer, focusing on the front-end.<br>
 Currently, I'm a Technologist in Systems Analysis and Development with an MBA in Software Engineering. I'm studying for a specialization in Project Management to acquire the essential skills to successfully lead small, medium and large projects.
 
-I have significant experience in front-end e-commerce development, contributing to large retail and telecom projects using Oracle CX Commerce and Salesforce Commerce Cloud. 
+I have significant experience in front-end e-commerce development, contributing to large retail projects using Oracle CX Commerce and Salesforce Commerce Cloud. 
 
 I'm interested in front-end development and Project Management
 
